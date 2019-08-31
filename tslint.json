@@ -32,6 +32,7 @@
       }
     ],
     "no-consecutive-blank-lines": false,
+    "eofline":false,
     "no-console": [
       true,
       "debug",
@@ -46,6 +47,7 @@
       "ignore-params"
     ],
     "no-non-null-assertion": true,
+    "indent": false,
     "no-redundant-jsdoc": true,
     "no-switch-case-fall-through": true,
     "no-use-before-declare": true,
